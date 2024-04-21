@@ -71,3 +71,9 @@
     margin-top: 15px;
     margin-left: 15px;
 }
+@media screen and (max-width:320px){
+    .edmob{
+        font-style: oblique;
+        font-weight: 900;
+    }
+}
